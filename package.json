@@ -10,6 +10,8 @@
   },
   "dependencies": {
     "@vueuse/core": "^4.8.4",
+    "@vueuse/firebase": "^4.9.1",
+    "firebase": "^8.4.3",
     "vue": "^3.0.5"
   },
   "devDependencies": {
