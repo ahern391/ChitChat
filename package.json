@@ -1,7 +1,7 @@
 {
-  "name": "vue3template",
+  "name": "ChitChat",
   "version": "1.0.0",
-  "author": "Rodolfo Romamn <rromanv@gmail.com>",
+  "author": "Allan Hernandez <allanfernando59@gmail.com>",
   "license": "ISC",
   "scripts": {
     "dev": "vite",
