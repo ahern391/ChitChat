@@ -9,8 +9,9 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "@vueuse/core": "^4.8.4",
+    "@vueuse/core": "^4.9.1",
     "@vueuse/firebase": "^4.9.1",
+    "@vueuse/motion": "^1.5.4",
     "firebase": "^8.4.3",
     "vue": "^3.0.5"
   },
